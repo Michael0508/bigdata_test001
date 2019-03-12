@@ -1,4 +1,4 @@
 /src/test/
 /.idea/
 /target/
-*xml
+/.gitignore
