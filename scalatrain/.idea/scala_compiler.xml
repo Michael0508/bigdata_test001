@@ -4,7 +4,7 @@
     <profile name="Maven 1" modules="scalatrain">
       <parameters>
         <parameter value="-dependencyfile" />
-        <parameter value="D:\scalatrain\target/.scala_dependencies" />
+        <parameter value="D:\Idea_project\scalatrain\target/.scala_dependencies" />
       </parameters>
     </profile>
   </component>
