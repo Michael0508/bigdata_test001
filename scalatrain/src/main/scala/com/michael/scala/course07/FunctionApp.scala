@@ -13,7 +13,7 @@ object FunctionApp extends App {
   println(txt)
 
   val txts = List(txt)
-  val count = txts.flatMap(_.split(",")).map(x => (x, 1)).
+//  val count = txts.flatMap(_.split(",")).map(x => (x, 1)).
 
 
 
